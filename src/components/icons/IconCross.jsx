@@ -1,4 +1,4 @@
-export const CrossIcon = ({fill = "#494C6B", ...props}) => {
+export const IconCross = ({fill = "#494C6B", ...props}) => {
   return (
     <svg
       {...props}

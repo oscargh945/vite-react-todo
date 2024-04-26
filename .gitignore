@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-todo-app-main/
-design/
+todo-app-main
+design
